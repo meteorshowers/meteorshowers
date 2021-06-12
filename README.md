@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on Autonomous Driving in DJI with Dr. Xiaozhi Chen on 3D perception.
+- 🌱 I used to work on  multi-modal (nlp-cv) work in ByteDance search-nlp group with Shenjian Zhao.
 ### Hi there 👋,　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [![Blog Badge](https://img.shields.io/badge/zhihu-63k%20pageview-brightgreen)](https://www.zhihu.com/people/li-xuan-yi-68) [![Mail Badge](https://img.shields.io/badge/-xuanyili.edu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xuanyili.edu@gmail.com)](mailto:xuanyili.edu@gmail.com)
 I'm coding some stereo matching algorithms. If you are interested in this work, please follow me, I hope my work is helpful to you!
 <br>我正在编写一些基于深度学习的双目立体匹配算法，并免费开源。如果你对此工作感兴趣，欢迎关注我，希望它们能够给你的科研或工作提供一些帮助！
