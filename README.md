@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ✨ meteorshowers ✨,　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [![Blog Badge](https://img.shields.io/badge/zhihu-63k%20pageview-brightgreen)](https://www.zhihu.com/people/li-xuan-yi-68) [![Mail Badge](https://img.shields.io/badge/-xuanyili.edu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xuanyili.edu@gmail.com)](mailto:xuanyili.edu@gmail.com)
-- 🔭 I  will work with Dr.XXX  on Autonomous Driving NN-Planning.
+- 🔭 I  will work on Autonomous Driving NN-Planning in XXX.inc.
 - 🔭 I  used to work with Dr. Xiaozhi Chen on Autonomous Driving 3D perception in DJI.
 - 🌱 I used to work on  multi-modal AICG (nlp-cv) work  with Shenjian Zhao in ByteDance search-nlp group.
 
